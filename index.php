@@ -52,7 +52,7 @@
       <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img style="height: 200px;" src="assets/nitya.png" alt="">
-        <h1 class="sitename">Nitya Makeover</h1>
+        <h1 class="sitename">Nitya Makeover (staging)</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
