@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: ZenBlog
-Template URL: https://bootstrapmade.com/zenblog-bootstrap-blog-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is the website of The Nityamakeover (A makeup artist)
+She is freelancer, teacher ..
+She is running makeup Academy in Harmu Ranchi Jharkhand 834002.
+to visit The Nitya Makeover URL this website
+www.nityamakeover.com
